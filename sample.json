@@ -1,0 +1,109 @@
+{
+    "skills": [
+        {
+            "skill": "Knowledge in Python, jQuery, JavaScript, AJAX, PHP, HTML, CSS, MySQL, React, NodeJS"
+        },
+        {
+            "skill": "Can use Git for code management"
+        },
+        {
+            "skill": "Understanding of OOP approach and MVC pattern"
+        },
+        {
+            "skill": "Computer Network Engineering (Network Fundamentals, Network Access, IP Connectivity, Security Fundamentals, Intro to Automation and Programmability)"
+        },
+        {
+            "skill": "Typing skills"
+        },
+        {
+            "skill": "Basic video editing"
+        }
+    ],
+    "strengths": [
+        {
+            "strength": "Fast learner"
+        },
+        {
+            "strength": "Resourcefulness"
+        },
+        {
+            "strength": "Analytical and problem-solving skills"
+        },
+        {
+            "strength": "Willing to learn"
+        },
+        {
+            "strength": "Cooperative"
+        }
+    ],
+    "educ": [
+        {
+            "school_name": "First City Providential College",
+            "date_period": "2019 - 2023"
+        },
+        {
+            "school_name": "Jarmmeth College Inc",
+            "date_period": "2017 - 2019"
+        },
+        {
+            "school_name": "Muzon National High School",
+            "date_period": "2013 - 2017"
+        },
+        {
+            "school_name": "Muzon Pabahay Elementary School",
+            "date_period": "2010 - 2013"
+        },
+        {
+            "school_name": "Golden Children Academy",
+            "date_period": "2007 - 2010"
+        }
+    ],
+    "seminars": [
+        {
+            "semimar_attended": "JPCS National Assembly 2021"
+        },
+        {
+            "semimar_attended": "Cybersecurity Awareness"
+        },
+        {
+            "semimar_attended": "FCPC College of Computer Studies Research Colloquium 2022 with the theme: “Building A Resilient Research Community Towards the New Normal”"
+        },
+        {
+            "semimar_attended": "2-day Writeshop for the Commission on Higher Education Grant inAid Project: “Big Data Analytics and Mapping of Emerging Industry Landscape in the ASEAN: Implications to Higher Education”"
+        },
+        {
+            "semimar_attended": "Virtual Workshop of CHED GIA Project"
+        },
+        {
+            "semimar_attended": "Final Presentation of CHED GIA Project"
+        }
+    ],
+    "certifications": [
+        {
+            "certification": "CCNAv7: Enterprise Networking, Security, and Automation"
+        },
+        {
+            "certification": "CCNAv7: Switching, Routing, and Wireless Essentials"
+        },
+        {
+            "certification": "CCNA 200-301 Certificate"
+        }
+    ],
+    "char_references": [
+        {
+            "char_ref_name": "Rendel G. Francisco",
+            "ref_email": "rendel.francisco@gmail.com",
+            "ref_contact_no": "09477805004"
+        },
+        {
+            "char_ref_name": "Leonila Beroy-Valdez",
+            "ref_email": "leonila.valdez@fcpc.com.ph",
+            "ref_contact_no": "09156189715"
+        }
+    ],
+    "name": "Daniel D Bautista",
+    "career_obj": "To grow professionally and excel in my chosen career. Apply my experience and knowledge whether be it in software development or network engineering while also expanding my skillset through new learnings.",
+    "contact_no": "09163621627",
+    "email": "eindal.bautista@gmail.com",
+    "github_profile": "/d4niel-bautista"
+}
